@@ -1,0 +1,20 @@
+{
+    "Author": "Baswijdenesdotcom",
+    "ContentSize": 543,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/bulk-update-oms-workspace-key/master/Bulk_Update_OMS_Workspace_Key.ps1",
+    "DownloadCount": 539,
+    "Id": "Bulk-update-OMS-Workspace-5052fb22",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 307,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-2-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "I have already filled $servers, so unless you apply a new filter you can use $servers again.With the bulk script below you update all servers in $servers. Do not forget to customize the WorkspaceID and WorkspaceKey.Make sure to add your Workspace ID and Workspace Key.The rest sho",
+    "Title": "Bulk update OMS Workspace Key",
+    "UpdatedDate": "2019-2-8T00:00:00",
+    "Url": "https://github.com/azureautomation/bulk-update-oms-workspace-key",
+    "UserTags": ""
+}
